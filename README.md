@@ -1,7 +1,4 @@
 ### Hey there I'm Ronak, a passionate self-taught Full Stack Web Developer🤘🏼 
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://www.linkedin.com/in/ronakf11/">
   <img align="left" alt="Ronak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
