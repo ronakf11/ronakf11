@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there I'm Ronak, a full stack web developer 🤘🏼 
+
+### Me in a nutshell
+
+### What I'm up to
 
 <!--
 **ronakf11/ronakf11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
