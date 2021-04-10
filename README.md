@@ -15,15 +15,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ### Me in a nutshell
 
-- Software engineer in the JS ecosystem 💫
-- Business background in Entrepreneurship & Ecommerce 💡
-- Outside of coding a good outing with friends 🌴
+- Software engineer in the JavaScript ecosystem 💫
+- Business background in Entrepreneurship & E-commerce 💡
+- Outside of coding i like a good outing with friends 🌴
 - Want to know more? Check out my [LinkedIn](https://www.linkedin.com/in/ronak-fofaliya/)
 
 ### What I'm up to
 
 - Planning my React portfolio dashboard for students - Stay tuned! 😉
-- Brushing up on Java and React 
+- Brushing up on Java
 
 ### Tech Stack
 
