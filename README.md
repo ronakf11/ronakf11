@@ -5,6 +5,13 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ronakf11.ronakf11)
 
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+<img align="right" alt="GIF" src="https://github.com/ronakf11/ronakf11/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@ronakf11](https://www.instagram.com/ronakf11/);
+- 📝 [Resume](https://drive.google.com/file/d/1ntsf5G43WBFW33oH3f20t7FNUgtplezM/view)
 ### Me in a nutshell
 
 ### What I'm up to
